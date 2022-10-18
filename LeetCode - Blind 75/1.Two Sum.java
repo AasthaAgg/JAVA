@@ -1,5 +1,4 @@
-/* 1. TWO SUM      */
-
+// 1. TWO SUM
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
